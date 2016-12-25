@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RotateView">
+        <attr name="isShadowOn" format="boolean" />
+        <attr name="rotation" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="RotateLayout_Layout">
+        <attr name="layout_angle" format="integer" />
+    </declare-styleable>
+	<declare-styleable name="RotateImageView">
+	    <attr name="angle" format="integer" />
+	</declare-styleable>
+    
+</resources>
